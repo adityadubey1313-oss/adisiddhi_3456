@@ -2,7 +2,7 @@ const invitationData = {
   siteUrl: 'https://adityadubey1313-oss.github.io/adisiddhi_3456/',
   eventDate: '2026-12-06',
   primaryHero: 'preview.jpg',
-  musicAsset: 'wedding-song.mp3',
+  musicAsset: 'wedding-song1.mp3',
   couple: {
   "hi": "सिद्धिबाला संग आदित्य"
 },
@@ -30,6 +30,7 @@ const invitationData = {
     "मङ्गलम् भगवान् विष्णु: मङ्गलम् गरुड़ध्वज: ।",
     "मङ्गलम् पुण्डरीकाक्ष: मङ्गलाय तनो हरि:  ।।"
   ],
+  "invocationAfterInvitation": true,
   "invitation": [
     "ॐ",
     "।। निमंत्रण ।। ",
