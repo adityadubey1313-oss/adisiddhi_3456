@@ -25,14 +25,13 @@ const invitationData = {
   sourceDocument: {
   "filename": "निमन्त्रण पत्र  प्रथम .docx",
   "invocation": [
-    "ॐ",
-    "।। श्री गणेशाय नम: ।। ",
     "मङ्गलम् भगवान् विष्णु: मङ्गलम् गरुड़ध्वज: ।",
     "मङ्गलम् पुण्डरीकाक्ष: मङ्गलाय तनो हरि:  ।।"
   ],
   "invocationAfterInvitation": true,
   "invitation": [
     "ॐ",
+    "।। श्री गणेशाय नम: ।।",
     "।। निमंत्रण ।। ",
     "विनय निमंत्रण आपको, गौरी पुत्र गणेश ।",
     "मात-भवानी, भास्कर, ब्रह्मा, विष्णु, महेश ।।",
@@ -145,7 +144,7 @@ const invitationData = {
       venueHeading: 'स्थान और दिशा',
       familyHeading: '',
       shareHeading: '',
-      footerText: 'सिद्धिबाला संग आदित्य',
+      footerText: '',
       viewDirections: 'दिशा देखें',
       directionsTo: 'यहाँ जाने का मार्ग देखें:',
       callNow: 'कॉल करें',
